@@ -16,5 +16,10 @@
  
  🔦 간단한 조명 기능을 활용하였습니다.
 
+## Screen Shot
+![image](https://user-images.githubusercontent.com/58140360/174440251-644dc8a8-e719-430a-b014-93a82f490cf7.png)
+
+
 ## Tech Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/>
+
