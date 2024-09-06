@@ -1,5 +1,5 @@
 # :triangular_ruler: OpenGL Final Project :triangular_ruler:
-한성대학교 3학년 1학기 전선 [컴퓨터 그래픽스] 기말 프로젝트
+3학년 1학기 전선 [컴퓨터 그래픽스] 기말 프로젝트
 
 - OpenGL은 1992년 실리콘 그래픽스사에서 만든 2차원 및 3차원 그래픽스 표준 API 규격입니다.
 - '다관절 물체가 등장하는 장면 구상' 이 한 학기를 마무리하는 기말 프로젝트입니다.
@@ -19,7 +19,5 @@
 ## Screen Shot
 ![image](https://user-images.githubusercontent.com/58140360/174440251-644dc8a8-e719-430a-b014-93a82f490cf7.png)
 
-
 ## Tech Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/>
-
